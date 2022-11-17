@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/interactive-card-detail-solution-js3E-RwAJT)
+- Live Site URL: (https://cheerful-druid-7f8fb1.netlify.app/)
 
 ## My process
 
@@ -47,6 +47,12 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
+
+After submitting my solution I realized that the windows
+task bar when is not hidden it will have an effect on your screen
+real estate your layout solution will be far more off from the design,
+so next time I will make sure that it is hidden and also
+that the chrome window is in full size view.
 
 ```html
 <label for="">,<input type="" placeholders="" maxlength="" /></label>
